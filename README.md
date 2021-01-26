@@ -1,2 +1,3 @@
 # ipbalneario
- Site da IPB Balneário Meia Ponte
+ Igreja Presbiteriana Balneário Meia Ponte
+ Site da IP Balneário.
