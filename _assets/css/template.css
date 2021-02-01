@@ -115,7 +115,7 @@ header {
 }
 .banner_avisos_hours {
     display: flex;
-    padding: 8px;
+    padding: 7px;
     font-size: 15px;
     border-bottom: 1px solid #a0a0a0;
 }
