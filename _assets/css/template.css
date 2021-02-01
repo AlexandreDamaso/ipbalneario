@@ -75,10 +75,59 @@ header {
     flex-direction: column;
     justify-content: center;
 }
+.text_biblico {
+    max-width: 350px;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 5px #000000, 0px 0px 10px #000000;
+}
+.text_biblico h1 {
+    font-size: 35px;
+}
+.banner_avisos_text {
+    margin-top: 15px;
+    font-size: 15px;
+}
 /* ##### ##### ##### ##### ##### ##### ##### ##### */
 /* Seção - Banner - avisos */
+.banner_avisos_title {
+    margin-bottom: 5px;
+    font-size: 21px;
+}
 .banner_avisos {
     display: flex;
     height: 200px;
+}
+.banner_a,
+.banner_b,
+.banner_c {
+    flex: 1;
+    padding: 20px;
+    color: #FFFFFF;
+}
+.banner_a {
+    background-color: #00b75a;
+}
+.banner_b {
+    background-color: #008640;
+}
+.banner_c {
     background-color: #005912;
+}
+.banner_avisos_hours {
+    display: flex;
+    padding: 8px;
+    font-size: 15px;
+    border-bottom: 1px solid #a0a0a0;
+}
+.bah_name {
+    text-align: left;
+    flex: 2;
+}
+.bah_week {
+    text-align: center;
+    flex: 1;
+}
+.bah_hour {
+    text-align: right;
+    flex: 1;
 }
